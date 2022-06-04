@@ -1,0 +1,1 @@
+## Project for news application
